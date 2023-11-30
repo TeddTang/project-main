@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project-main/static/css/main.f8874cb7.css",
+    "main.js": "/project-main/static/js/main.02c0ae37.js",
+    "static/js/787.0f8d78ff.chunk.js": "/project-main/static/js/787.0f8d78ff.chunk.js",
+    "static/media/show.svg": "/project-main/static/media/show.d31d54e7db3367f7ba69836e0bd764fa.svg",
+    "static/media/hide.svg": "/project-main/static/media/hide.68048ddce12c1fdba203f7501ee9a716.svg",
+    "static/media/ic_delete.svg": "/project-main/static/media/ic_delete.fac32be356cf3941d22f0831bc5bbb5c.svg",
+    "static/media/ic_teacher.svg": "/project-main/static/media/ic_teacher.944df70cf87d3af8ba8ba69ac551939b.svg",
+    "static/media/ic_teacher_enable.svg": "/project-main/static/media/ic_teacher_enable.f32c21e319ad662545d2b7406ee3435d.svg",
+    "static/media/ic_logout.svg": "/project-main/static/media/ic_logout.6826e0135f589fce9a05212fa619d85a.svg",
+    "static/media/ic_student.svg": "/project-main/static/media/ic_student.9d686163366795f4e52ef2542f3d6f92.svg",
+    "static/media/ic_student_enable.svg": "/project-main/static/media/ic_student_enable.4d6109c843d75e79c6954977aacadcc2.svg",
+    "index.html": "/project-main/index.html",
+    "static/media/ic_edit.svg": "/project-main/static/media/ic_edit.ecb787ba522856b9235b8e6ad2154d16.svg",
+    "main.f8874cb7.css.map": "/project-main/static/css/main.f8874cb7.css.map",
+    "main.02c0ae37.js.map": "/project-main/static/js/main.02c0ae37.js.map",
+    "787.0f8d78ff.chunk.js.map": "/project-main/static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8874cb7.css",
+    "static/js/main.02c0ae37.js"
+  ]
+}
