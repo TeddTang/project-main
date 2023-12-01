@@ -4,6 +4,10 @@ import teacher_enable from '../assets/ic_teacher_enable.svg' ;
 import teacher from '../assets/ic_teacher.svg' ;
 import student_enable from '../assets/ic_student_enable.svg' ;
 import student from '../assets/ic_student.svg' ;
+import question_enable from '../assets/ic_qa_enable.svg' ;
+import question from '../assets/ic_qa.svg' ;
+import group_enable from '../assets/ic_group_enable.svg' ;
+import group from '../assets/ic_group.svg' ;
 import logout from '../assets/ic_logout.svg' ;
 import "../styles/style.scss";
 
@@ -33,7 +37,14 @@ const Sidebar = () => {
                     <img src={selectedPage === 'student' ? student_enable : student} alt="" />
                     學生管理</Link>
                 </li>
-                
+                <li className={selectedPage === 'question' ? 'active' : ''}><Link to="/question">
+                    <img src={selectedPage === 'question' ? question_enable : question} alt="" />
+                    題目管理</Link>
+                </li>
+                <li className={selectedPage === 'group' ? 'active' : ''}><Link to="/group">
+                    <img src={selectedPage === 'group' ? group_enable : group} alt="" />
+                    分組管理</Link>
+                </li>
             </ul>
             <ul>
             <li className='logout'><Link to="/login">
